@@ -1,0 +1,28 @@
+{
+"Servers": {
+    "Time-Turner": {
+        "ip": "127.0.0.1",
+        "port": "55555",
+        "user": "admin",
+        "pass": "test"
+    },
+    "Gir": {
+        "ip": "gir.red-m.net",
+        "port": "55555",
+        "user": "admin",
+        "pass": "test"
+    },
+    "Gir2": {
+        "ip": "gir2.red-m.net",
+        "port": "55555",
+        "user": "admin",
+        "pass": "test"
+    },
+    "lil-derpy": {
+        "ip": "192.168.0.10",
+        "port": "55555",
+        "user": "admin",
+        "pass": "test"
+    }
+}
+}
